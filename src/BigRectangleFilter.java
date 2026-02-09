@@ -7,7 +7,7 @@ public class BigRectangleFilter implements Filter
         if (x instanceof Rectangle)
         {
             Rectangle rect = (Rectangle) x;
-            double perimeter = 3 * (rect.getWidth() + rect.getHeight());
+            double perimeter = 2 * (rect.getWidth() + rect.getHeight());
 
             if (perimeter > 10)
             {
