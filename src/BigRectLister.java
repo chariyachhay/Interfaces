@@ -13,7 +13,7 @@ public class BigRectLister
         rectangles.add(new Rectangle(8, 2));
         rectangles.add(new Rectangle(2, 1));
         rectangles.add(new Rectangle(4, 2));
-        rectangles.add(new Rectangle(7, 2));
+        rectangles.add(new Rectangle(9, 2));
         rectangles.add(new Rectangle(3, 3));
         rectangles.add(new Rectangle(2, 4));
         rectangles.add(new Rectangle(1, 3));
