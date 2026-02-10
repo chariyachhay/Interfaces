@@ -20,7 +20,7 @@ public class BigRectLister
 
         Filter filter = new BigRectangleFilter();
 
-        System.out.println("Rectangles with perimeter greater than 10:");
+        System.out.println("Rectangles with perimeter greater than (>) 10:");
 
         for (Rectangle r : rectangles)
         {
